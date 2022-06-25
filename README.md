@@ -28,8 +28,8 @@
 + 事前学習のキャッチアップ＋R実習
     + data/* ...データセット関連
     + slides/0625_R_catchup.pdf ...授業スライド
-
-
+    + ./1-1_titanic.ipynb ... Titanic datasetの分析
+    + ./1-2_covid19.ipynb ... 新型コロナ関連データの分析
 
 ### 分析用コード
 
@@ -38,8 +38,6 @@ rファイル(.r)とipynbファイル(.ipynb)があります。
 + ipynbはJupyterLab(JupyterNotebook)で作成されたファイルで、GitHub上でソースコードとその実行結果をみることができます
     + うまく見られない場合はJupyter nbviewer( https://nbviewer.jupyter.org/ )を使うとよい
 + rファイルはRのソースコードで、より詳しいコードの解説と、ネットワークグラフ用のソースコードが入っています。一行ずつ実行していくことで、分析を再現できます
-
-
 
 ## Further Reading
 
