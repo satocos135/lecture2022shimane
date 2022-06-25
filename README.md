@@ -25,6 +25,10 @@
     + exercises_answer.ipynb ...演習問題の答えのJupyterによる出力
     + exercise/* ...エクササイズで使うデータセット 
     + slides/R_bootcamp.pdf ...スライド
++ 事前学習のキャッチアップ＋R実習
+    + data/* ...データセット関連
+    + slides/0625_R_catchup.pdf ...授業スライド
+
 
 
 ### 分析用コード
@@ -79,3 +83,4 @@ rファイル(.r)とipynbファイル(.ipynb)があります。
 ## Notes
 
 2022.06.13 ファイルをアップロード
+2022.06.25 実習用データセットをアップロード
